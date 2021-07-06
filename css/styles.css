@@ -1,0 +1,108 @@
+
+body{
+    
+    background-color: hsl(233, 47%, 7%);
+    
+    margin: 10%;
+}
+.outer-body{
+    background-color: hsl(244, 38%, 16%);;
+    margin-right: 50%;
+    height: 450px;
+}
+.Text-container{
+    background-color: hsl(244, 38%, 16%);
+    display: inline-block;
+}
+.insights{
+    color: hsl(277, 64%, 61%);
+}
+.headding{
+    display: inline-block;
+    position: absolute;
+    margin: 20px 0px 0px 15px;
+    width: 30%;
+    font-weight: 700;
+    font-size: 2.5rem;
+    font-family: "Lexend Deca", sans-serif;
+    color: hsl(0, 0%, 100%);
+    text-decoration: transparent hsla(0, 0%, 100%, 0.6);
+    
+}
+.Paragraph{
+    display: inline-block;
+    position: absolute;
+    margin: 150px 0px 0px 15px;
+    width: 28%;
+    font-size: 1rem;
+    font-weight: 300;
+    font-family: "Inter", sans-serif;
+    color: hsla(0, 0%, 100%, 0.6);
+    text-decoration: transparent hsla(0, 0%, 100%, 0.6);
+}
+.footer{
+
+    display: inline-block;
+    position: absolute;
+    margin-top: 330px;
+    margin-bottom: 0px;
+}  
+.companies{
+    display: inline-block;
+    position: relative;
+    padding-left: 20px;
+    padding-right: 80px;
+    color: hsl(0, 0%, 100%);
+    margin: 0px;
+}
+.templates{
+    display: inline-block;
+    position: relative;
+    color: hsl(0, 0%, 100%);
+    margin: 0px;
+}
+.Queries{
+    display: inline-block;
+    position: relative;
+    padding-left: 100px;
+    color: hsl(0, 0%, 100%);
+    margin: 0px;
+}
+
+.Image-Container{
+    position: absolute;
+    margin-left: 560px;
+           
+}
+.sub-footer{
+    display: inline-block;
+    position: absolute;
+    margin-top: 350px;
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 0.7rem;
+    
+}
+.comp{
+    color: hsla(0, 0%, 100%, 0.6);
+    text-decoration: transparent hsla(0, 0%, 100%, 0.6);    
+    display: inline-block;
+    position: relative;
+    padding-left: 20px;
+    padding-right: 65px;
+    
+    
+}
+.temp{
+    color: hsla(0, 0%, 100%, 0.6);
+    text-decoration: transparent hsla(0, 0%, 100%, 0.6);    
+    display: inline-block;
+    position: relative;
+
+}
+.quer{
+    color: hsla(0, 0%, 100%, 0.6);
+    text-decoration: transparent hsla(0, 0%, 100%, 0.6);    
+    display: inline-block;
+    position: relative;
+    padding-left: 75px;
+}
